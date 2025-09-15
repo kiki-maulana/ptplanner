@@ -27,4 +27,6 @@ The list of metropolitan areas that are covered is listed below:
 Requirement:
 1. OTP engine version 1.5.0
    Download from [here](https://repo1.maven.org/maven2/org/opentripplanner/otp/)
-3. Java 8
+2. Java 8
+3. OSM Metropolitan data (links)
+4. GTFS data
