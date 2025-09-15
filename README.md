@@ -24,3 +24,7 @@ The list of metropolitan areas that are covered is listed below:
   an open-source multimodal trip planning engine. Licensed under the
   <a href="https://www.apache.org/licenses/LICENSE-2.0" target="_blank">Apache 2.0 License</a>.
 
+Requirement:
+1. OTP engine version 1.5.0
+   Download from [here](https://repo1.maven.org/maven2/org/opentripplanner/otp/)
+3. Java 8
