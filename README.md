@@ -4,7 +4,7 @@ This repository contains an explanation about a public transportation trips scra
 This tool helps researchers and planners evaluate public transport accessibility and trip details based on GTFS and OpenStreetMap data.
 
 The data for ptplanner can be downloaded from the external repository due to the large dataset.
-[ptplanner repo][https://latrobeuni-my.sharepoint.com/:f:/g/personal/kadhinugraha_ltu_edu_au/EiwshLzkJtdHoji2P4VocK0BueqG8demdLlggmflDuUIRg?e=ejrYCZ]
+[ptplanner repo](https://latrobeuni-my.sharepoint.com/:f:/g/personal/kadhinugraha_ltu_edu_au/EiwshLzkJtdHoji2P4VocK0BueqG8demdLlggmflDuUIRg?e=ejrYCZ)
 
 ## 🔧 Tools Included
 ### 1. Interactive Public Transportation simulator, based on OTP 1.5.0
