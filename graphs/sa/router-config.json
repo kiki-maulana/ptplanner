@@ -1,0 +1,9 @@
+{
+  "routerId": "sa",
+  "routingDefaults": {
+    "walkSpeed": 1.33,
+    "maxWalkDistance": 1000,
+    "modes": "WALK,TRANSIT",
+    "arriveBy": false
+  }
+}
