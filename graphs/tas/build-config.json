@@ -1,0 +1,7 @@
+{
+  "osmWayPropertySet": "default",
+  "dataImportReport": true,
+  "embedRouterConfig": true,
+  "areaVisibility": false,
+  "staticParkAndRide": false
+}
