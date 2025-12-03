@@ -78,6 +78,9 @@ The following list outlines the requirements for deploying the Multi-route OTP e
 - OSM map
 - GTFS data
 
+1. Make sure to build the graph using otp_graph_build.sh
+2. Run the service using otp_server.sh
+
 ## 📢 Attribution & Credits
 
 This tool was built and maintained by **Kiki Adhinugraha**  
